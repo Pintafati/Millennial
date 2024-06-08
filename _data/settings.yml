@@ -12,7 +12,7 @@ menu:
 - {name: 'Post de ejemplo',       url: 'sample-posts'}
 - {name: 'Documentacion',      url: 'documentation'}
 - {name: 'Acerca de',              url: 'about'}
-- {name: 'Contacto',            url: 'contact'}
+#- {name: 'Contacto',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
